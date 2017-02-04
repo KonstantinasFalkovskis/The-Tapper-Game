@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  tapperGame
+//  TapperGame © 2017
 //
-//  Created by Laurynas on 03/02/2017.
+//  Created by Konstantinas Falkovskis on 03/02/2017.
 //  Copyright © 2017 Falco. All rights reserved.
 //
 
